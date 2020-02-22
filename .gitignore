@@ -1,6 +1,11 @@
 .vagrant
 .sass-cache
+var/cache/config/
+var/cache/sql/
+var/cache/translations/
 
+db/install/createdb.sql
+db/install/tradgal2.sql
 /extend/*
 !/extend/README.md
 !/extend/goteo-dev
